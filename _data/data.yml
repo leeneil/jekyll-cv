@@ -42,12 +42,11 @@ experience:
       Machine learning for camera hardware design and image quality analysis.
   
   - role: Research Intern
-    time: 2021
+    time: 2020
     company: Facebook Reality Labs
     details: |
       Machine learning for accelerated nanostructure waveguide design.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+
       
   - role: Hardware Engineering Intern
     time: 2019
@@ -60,7 +59,7 @@ publications:
   - title: Sequence-guided protein structure determination using graph convolutional and recurrent networks
     link: "https://arxiv.org/abs/2007.06847"
     authors: Po-Nan Li, Saulo de Oliveira, Soichi Wakatsuki, and Henry van den Bedem
-    conference: The 20th IEEE International Conference on BioInformatics and BioEngineering
+    conference: The 20th IEEE International Conference on BioInformatics and BioEngineering (2020)
 
   - title: A bacterial surface layer protein exploits multi-step crystallization for rapid self-assembly
     link: "https://www6.slac.stanford.edu/news/2019-12-17-scientists-discover-how-proteins-form-crystals-tile-microbes-shell.aspx"
@@ -78,10 +77,15 @@ projects:
     details: |
       An interactive website that visualizes the results of 2018 Referendum in Taiwan. Contributed to data crawling and front-end Development.
 
-  - title: Peak finding for crystallography 
+  - title: CS231n: Peak finding for crystallography 
     link: https://blog.ponan.li/assets/papers/cs231n_poster_li.pdf
     details: |
       Built and trained a YOLO network that can rapidly locate Bragg peaks on a diffraction image on SLAC's massive SFX data.
+      
+  - title: EE367: Mountable Dynamic Range Enhancer for Digital Cameras 
+    link: http://stanford.edu/class/ee367/Winter2016/Wu_and_Li_Poster.pdf
+    details: |
+      Built an Arduino-enabled device that can be mounted onto a camera and enhance the photo dynamic range by adaptively modulating a gray-scale LCD.
 
 # Volunteering
 volunteering:
