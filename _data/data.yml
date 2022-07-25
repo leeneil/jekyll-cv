@@ -31,11 +31,7 @@ education:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  With the training in signal processing and optics, Po-Nan works at the intersection of imaging and machine learning. Having extensive internship experience in the VR/AR industry, Po-Nan now works on smart phone cameras, aiming to make the amazing cameras in your pocket even better.
 
 # Experience
 experience:
@@ -43,23 +39,13 @@ experience:
     time: 2021-Present
     company: Apple
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
+      Machine learning for camera hardware design and image quality analysis.
   
   - role: Research Intern
     time: 2021
     company: Facebook Reality Labs
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Machine learning for accelerated nanostructure waveguide design.
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
       
@@ -67,19 +53,14 @@ experience:
     time: 2019
     company: Google
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Algorithm development and camera calibration instrumentation for VR/AR technologies.
+
 
 publications:
   - title: Sequence-guided protein structure determination using graph convolutional and recurrent networks
     link: "https://arxiv.org/abs/2007.06847"
     authors: Po-Nan Li, Saulo de Oliveira, Soichi Wakatsuki, and Henry van den Bedem
-    conference: Some conference, 2016
+    conference: The 20th IEEE International Conference on BioInformatics and BioEngineering
 
   - title: A bacterial surface layer protein exploits multi-step crystallization for rapid self-assembly
     link: "https://www6.slac.stanford.edu/news/2019-12-17-scientists-discover-how-proteins-form-crystals-tile-microbes-shell.aspx"
@@ -95,21 +76,17 @@ projects:
   - title: Taiwanese Referendum 2018
     link: https://rfrd-tw.github.io/en/index.html
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      An interactive website that visualizes the results of 2018 Referendum in Taiwan. Contributed to data crawling and front-end Development.
 
   - title: Peak finding for crystallography 
     link: https://blog.ponan.li/assets/papers/cs231n_poster_li.pdf
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Built and trained a YOLO network that can rapidly locate Bragg peaks on a diffraction image on SLAC's massive SFX data.
 
 # Volunteering
 volunteering:
   - time: 2017
     role: Regional Director
-    company: North America Taiwan Study Association Annual Meeting
+    company: North American Taiwan Studies Association Annual Conference
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Coordinated meal, accomadation and venue logistics for a 4 day conference with more than 100 international attendees.
