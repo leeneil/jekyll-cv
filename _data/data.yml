@@ -4,40 +4,30 @@ fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: ponan@ponan.li
+  github: leeneil
+  linkedin: liponan
   phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: PhD in Electrical Engineering
+    time: 
+    university: Stanford University
+   
+  - degree: MS in Photonics
+    time: 
+    university: National Tsing Hua University
+   
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: BS in Electrical Engineering
+    time:
+    university: National Tsing Hua University
 
-skills:
-  - category: Backend
-    skill: 
-      - Go
-      - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
 
 # Profile
 profile: |
@@ -49,9 +39,9 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Camera Machine Learning Engineer
+    time: 2021-Present
+    company: Apple
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
@@ -61,9 +51,21 @@ experience:
     technologies_used: | 
       Go, Angular, Typescript, C++
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Research Intern
+    time: 2021
+    company: Facebook Reality Labs
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
+    technologies_used: | 
+      Python, Tensorflow, Keras, Matlab
+      
+  - role: Hardware Engineering Intern
+    time: 2019
+    company: Google
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
