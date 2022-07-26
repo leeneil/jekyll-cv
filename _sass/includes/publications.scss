@@ -20,6 +20,11 @@
                 color: var(--fg-color-title-sm);
                 font-weight: 100;
             }
+            svg {
+                width: 12px;
+                display: inline-block;
+                color: var(--fg-color);
+            }
         }
     }
 }

@@ -5,11 +5,13 @@ fork: true
 # Sidebar
 contact:
   email: ponan@ponan.li
-  github: leeneil
+  github: liponan
   linkedin: liponan
   phone: 
   gitlab: 
   twitter: 
+  blog: https://blog.ponan.li
+  googlescholar: https://scholar.google.com/citations?user=Sys63_0AAAAJ
 
 languages:
 
@@ -31,7 +33,7 @@ education:
 
 # Profile
 profile: |
-  With the training in signal processing and optics, Po-Nan works at the intersection of imaging and machine learning. Having extensive internship experience in the VR/AR industry, Po-Nan now works on smart phone cameras, aiming to make the amazing cameras in your pocket even better.
+  With the training in signal processing and optics, Po-Nan works at the intersection of imaging and machine learning. Having extensive internship experience in the VR/AR industry, Po-Nan now works on smartphone cameras, aiming to make the already amazing cameras in your pocket even better.
 
 # Experience
 experience:
@@ -39,13 +41,13 @@ experience:
     time: 2021-Present
     company: Apple
     details: |
-      Machine learning for camera hardware design and image quality analysis.
+      Machine learning solutions for camera hardware design and image quality analysis.
   
   - role: Research Intern
     time: 2020
     company: Facebook Reality Labs
     details: |
-      Machine learning for accelerated nanostructure waveguide design.
+      Machine learning frameworks for accelerated nanostructure waveguide design.
 
       
   - role: Hardware Engineering Intern
@@ -92,5 +94,12 @@ volunteering:
   - time: 2017
     role: Regional Director
     company: North American Taiwan Studies Association Annual Conference
+    link: https://www.na-tsa.org
+    details: |
+      Coordinated meal, accomadation and venue logistics for a 4 day conference with more than 100 international attendees.
+  - time: 2016
+    role: Vice President
+    company: Stanford Taiwanese Student Association (STSA)
+    link: https://web.stanford.edu/group/stsa/
     details: |
       Coordinated meal, accomadation and venue logistics for a 4 day conference with more than 100 international attendees.

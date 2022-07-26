@@ -7,6 +7,9 @@
         .role {
             @include sub-header;
         }
+        .v-link{
+            @include body-text; 
+        }
         .organization {
             @include body-text;
             font-weight: bold;

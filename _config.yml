@@ -1,8 +1,8 @@
-title: CV | A jekyll template
-description:  A beautiful template for your CV.
-url: https://jekyll-cv.stavrospanakakis.com
+title: Po-Nan Li
+description:  Po-Nan Li's personal homepage.
+url: https://ponan.li
 baseurl: ''
-theme_skin: blue
+theme_skin: cardinal
 
 sass:
   sass_dir: _sass

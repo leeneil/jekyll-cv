@@ -6,10 +6,11 @@
         {% for pub in publications%}
             <div class="publication-item">
                 <div class="publication-title">
-                    <a href="{{pub.link}}">{{pub.title}}</a>
+                    <a href="{{pub.link}}" target="_blank">{{pub.title}}</a>
+                    
                 </div>
                 <div class="authors">{{pub.authors}}</div>
-                <div class="conference">{{pub.conference}}</div>   
+                <div class="conference">{{pub.conference}}</div>
             </div>
         {%endfor%}
     </div>
