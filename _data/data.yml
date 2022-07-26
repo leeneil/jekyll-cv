@@ -77,12 +77,12 @@ projects:
     details: |
       An interactive website that visualizes the results of 2018 Referendum in Taiwan. Contributed to data crawling and front-end Development.
 
-  - title: CS231n: Peak finding for crystallography 
+  - title: "CS231n: Peak finding for crystallography"
     link: https://blog.ponan.li/assets/papers/cs231n_poster_li.pdf
     details: |
       Built and trained a YOLO network that can rapidly locate Bragg peaks on a diffraction image on SLAC's massive SFX data.
       
-  - title: EE367: Mountable Dynamic Range Enhancer for Digital Cameras 
+  - title: "EE367: Mountable Dynamic Range Enhancer for Digital Cameras"
     link: http://stanford.edu/class/ee367/Winter2016/Wu_and_Li_Poster.pdf
     details: |
       Built an Arduino-enabled device that can be mounted onto a camera and enhance the photo dynamic range by adaptively modulating a gray-scale LCD.
