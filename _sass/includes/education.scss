@@ -11,6 +11,13 @@
         }
         .university {
             @include body-text;
+            a {
+                text-decoration: none;
+                @include body-text;
+                &:hover {
+                    text-decoration: underline;
+                }
+            }
         }
         .time {
             @include body-text;

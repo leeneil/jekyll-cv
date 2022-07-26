@@ -19,16 +19,16 @@ languages:
 education:
   - degree: PhD in Electrical Engineering
     time: 
-    university: Stanford University
+    university: <a href="https://www.stanford.edu" target="_blank">Stanford University</a>
    
   - degree: MS in Photonics
     time: 
-    university: National Tsing Hua University
+    university: <a href="http://nthu-en.site.nthu.edu.tw  target="_blank"">National Tsing Hua University</a>
    
 
   - degree: BS in Electrical Engineering
     time:
-    university: National Tsing Hua University
+    university: <a href="http://nthu-en.site.nthu.edu.tw  target="_blank"">National Tsing Hua University</a>
 
 
 # Profile
@@ -60,18 +60,48 @@ experience:
 publications:
   - title: Sequence-guided protein structure determination using graph convolutional and recurrent networks
     link: "https://arxiv.org/abs/2007.06847"
-    authors: Po-Nan Li, Saulo de Oliveira, Soichi Wakatsuki, and Henry van den Bedem
+    authors: <u>Po-Nan Li</u>, Saulo de Oliveira, Soichi Wakatsuki, and Henry van den Bedem
     conference: The 20th IEEE International Conference on BioInformatics and BioEngineering (2020)
+
+  - title: Hybrid real- and reciprocal-space full-field imaging with coherent illumination
+    link: "https://iopscience.iop.org/article/10.1088/2040-8986/abbeca"
+    authors: <u>Po-Nan Li</u>, Soichi Wakatsuki, Piero Pianetta, and Yijin Liu
+    conference: J. Opt. 22, 115611 (2020)
 
   - title: A bacterial surface layer protein exploits multi-step crystallization for rapid self-assembly
     link: "https://www6.slac.stanford.edu/news/2019-12-17-scientists-discover-how-proteins-form-crystals-tile-microbes-shell.aspx"
-    authors: Jonathan Herrmann, Po-Nan Li, Fatemeh Jabbarpour, Anson C. K. Chan, Ivan Rajkovic, Tsutomu Matsui, Lucy Shapiro, John Smit, Thomas M. Weiss, Michael E. P. Murphy, and Soichi Wakatsuki
+    authors: Jonathan Herrmann, <u>Po-Nan Li</u>, Fatemeh Jabbarpour, Anson C. K. Chan, Ivan Rajkovic, Tsutomu Matsui, Lucy Shapiro, John Smit, Thomas M. Weiss, Michael E. P. Murphy, and Soichi Wakatsuki
     conference: Proc. Natl. Acad. Sci. U.S.A. 117, 388 (2019)
-    
+
+  - title: Transport Properties of Nanoporous, Chemically Forced Biological Lattices
+    link: "https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.9b05882"
+    authors: <u>Po-Nan Li</u>, Jonathan Herrmann, Soichi Wakatsuki, and Henry van den Bedem
+    conference: J. Phys. Chem. B 123, 10331 (2019)
+
+  - title: Holographic Phase Retrieval and Reference Design
+    link: "https://iopscience.iop.org/article/10.1088/1361-6420/ab23d1/meta"
+    authors: D.A. Barmherzig, J. Sun, <u>P.-N. Li</u>, and E.J. Candès
+    conference: Inverse Problems 35, 9 (2019)
+  
   - title: Nutrient transport suggests an evolutionary basis for charged archaeal surface layer proteins
     link: "https://www6.slac.stanford.edu/news/2018-06-13-slac-stanford-scientists-discover-how-hardy-microbe’s-crystalline-shell-helps-it"
-    authors: Po-Nan Li, Jonathan Herrmann, Bradley B. Tolar, Frédéric Poitevin, Rasika Ramdasi, John R. Bargar, David A. Stahl, Grant J. Jensen, Christopher A. Francis, Soichi Wakatsuki, and Henry van den Bedem
+    authors: <u>Po-Nan Li</u>, Jonathan Herrmann, Bradley B. Tolar, Frédéric Poitevin, Rasika Ramdasi, John R. Bargar, David A. Stahl, Grant J. Jensen, Christopher A. Francis, Soichi Wakatsuki, and Henry van den Bedem
     conference: ISME J. 12, 2389 (2018)
+
+  - title: Determination of three-dimensional atomic positions from tomographic reconstruction using ensemble empirical mode decomposition
+    link: "http://iopscience.iop.org/article/10.1088/1367-2630/18/8/083025"
+    authors: <u>Po-Nan Li</u>, Zong-Han Wu, Chien-Nan Hsiao, Ting-Kuo Lee, and Chien-Chun Chen
+    conference: New J. Phys. 18, 083025 (2016)
+
+  - title: Method to enhance the resolution of x-ray coherent diffraction imaging for non-crystalline bio-samples
+    link: "https://iopscience.iop.org/article/10.1088/1367-2630/16/3/033016"
+    authors: Ti-Yen Lan, <u>Po-Nan Li</u>, and Ting-Kuo Lee
+    conference: New J. Phys. 16, 033016 (2014)
+
+  - title: Subwavelength localization of near fields in coupled metallic spheres for single-emitter polarization analysis
+    link: "https://opg.optica.org/ol/abstract.cfm?uri=ol-36-12-2339"
+    authors: <u>Po-Nan Li</u>, Hsiu-Hao Tsao, Jer-Sing Huang, and Chen-Bin Huang
+    conference: Opt. Lett. 36, 2339-2341 (2011)
 
 projects:
   - title: Taiwanese Referendum 2018

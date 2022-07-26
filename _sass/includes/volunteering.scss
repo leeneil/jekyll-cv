@@ -7,8 +7,12 @@
         .role {
             @include sub-header;
         }
-        .v-link{
-            @include body-text; 
+        a {
+            text-decoration: none;
+            @include body-text;
+            &:hover {
+                text-decoration: underline;
+            }
         }
         .organization {
             @include body-text;
